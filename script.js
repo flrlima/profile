@@ -8,3 +8,7 @@ function toggleMode() {
     //     html.classList.add("light")
     // }
 }
+
+function emBreve() {
+	alert("Até o momento não implementei o menu! \n Tente os icones lá no final 😜");
+}
